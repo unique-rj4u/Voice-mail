@@ -4,6 +4,6 @@
 
 ### Modules
 -  speech_recognition
--  easyimap as e
+-  easyimap 
 -  pyttsx3
 -  smtplib
