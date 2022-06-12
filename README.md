@@ -1,8 +1,8 @@
 # Voice-mail
 
-## Voice mail for Visually impaired
+## Voice Email for Visually impaired
 
-### Modules
+### Modules:
 -  speech_recognition
 -  easyimap 
 -  pyttsx3
