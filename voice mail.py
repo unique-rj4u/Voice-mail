@@ -4,8 +4,8 @@ import easyimap as e
 import pyttsx3
 import smtplib
 
-unm = "190320107100.ce.dhiraj.sahani@gmail.com"                        # Login credentials of our email id
-pwd = "dhiraj3332"
+unm = "*****@gmail.com"                        # Login credentials of our email id
+pwd = "####"
 
 r = sr.Recognizer()
 
